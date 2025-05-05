@@ -454,7 +454,7 @@ module.exports = {
       teaching_solutions: '[AI_TRANSLATION]教學解決方案  ',
       play2: '[AI_TRANSLATION]玩',
       my_dashborads: '[AI_TRANSLATION]我的儀表板  ',
-      //    resources: "Resources",
+      //    resources: "Resources", 
       curriculum: '[AI_TRANSLATION]課程',
       company: '[AI_TRANSLATION]公司',
       coco_home_description: '[AI_TRANSLATION]拿到530個關卡和獨家內容像是寵物、專屬物品和英雄，任何人都可以完全沉浸在編碼世界。',
@@ -601,14 +601,14 @@ module.exports = {
       confirm_m7_off: '[AI_TRANSLATION]你確定要關閉測試關卡嗎？',
       play_codecombat: '[AI_TRANSLATION]玩 CodeCombat',
       play_codecombat_junior: '[AI_TRANSLATION]玩 CodeCombat Junior',
-      //    age_codecombat: "Ages 8+",
-      //    age_codecombat_junior: "Ages 5-8",
+      //    age_codecombat: "Ages 8+", '[年齡: 8歲以上]'
+      //    age_codecombat_junior: "Ages 5-8", '[5-8歲]'
       //    age_description_codecombat: "Real Python or JavaScript coding for everyone",
       //    age_description_codecombat_junior: "Blocks or simple text coding for beginners",
       //    campaign_about_dungeon: "Real text programming for brave adventurers!",
       //    campaign_about_junior: "Blocks or simple text coding for young heroes!",
       want_more_hints: '[AI_TRANSLATION]想要更多提示嗎？',
-      //    choose_your_adventure: "Choose Your Adventure",
+      //    choose_your_adventure: "Choose Your Adventure", '[選擇你的冒險旅程]'
       //    junior: "Junior",
       //    original: "Original",
       //    roblox_button_hover: "Play, Code and Create on Roblox",
