@@ -553,7 +553,7 @@ module.exports = {
       owned: '擁有的物品',
       locked: '未解鎖',
       locked_by_teacher: '[AI_TRANSLATION]教師鎖定',
-      //    locked_campaign: "Complete previous world to unlock",
+      //    locked_campaign: "Complete previous world to unlock",'[完成之前的世界以便解鎖下一個]'
       //    locked_campaign_forest: "Complete Kithgard Dungeon to unlock",
       //    locked_campaign_desert: "Complete Backwoods Forest to unlock",
       //    locked_campaign_mountain: "Complete Sarven Desert to unlock",
@@ -568,7 +568,7 @@ module.exports = {
       next: '下一步',
       change_hero: '更換英雄',
       change_hero_or_language: '更換英雄 或 變更語言',
-      //    change_language: "Code Language / Code Format",
+      //    change_language: "Code Language / Code Format"; '編程語言 / 編程格式'
       buy_gems: '購買寶石',
       subscribers_only: '訂閱者限定!',
       subscribe_unlock: '訂閱我們來解鎖吧!',
